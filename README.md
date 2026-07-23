@@ -2,36 +2,47 @@
 
 # Samet Coşkun
 
-### Data Science · Machine Learning · Deep Learning
+### Veri Bilimi • Makine Öğrenmesi • Veri Analizi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289)
+Veriyi anlamlandırmaya, tahmin modelleri geliştirmeye ve gerçek problemlere
+veri odaklı çözümler üretmeye yönelik projeler geliştiriyorum.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289)
 [![Kaggle](https://img.shields.io/badge/Kaggle-sametsssx-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sametsssx)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sametcoskun19@hotmail.com)
+[![E-posta](https://img.shields.io/badge/E--posta-İletişim-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sametcoskun19@hotmail.com)
 
 </div>
 
-## About me
+## Hakkımda
 
-- I work on end-to-end data science projects, from exploratory data analysis
-  and feature engineering to model evaluation and interpretation.
-- My current interests include tabular machine learning, time-series
-  forecasting, recommendation systems, RAG workflows, and LLM-assisted
-  applications.
-- I care about reproducible experiments, clear documentation, and turning
-  analytical findings into useful products.
+- Veri analizi, veri ön işleme, özellik mühendisliği ve tahminleme üzerine çalışıyorum.
+- Sınıflandırma, regresyon, zaman serileri ve öneri sistemleri üzerine projeler geliştiriyorum.
+- Model karşılaştırma, değerlendirme ve açıklanabilirlik yöntemleriyle ilgileniyorum.
+- Projelerimde anlaşılır dokümantasyona ve tekrarlanabilir deneylere önem veriyorum.
+- Gerektiğinde RAG ve büyük dil modeli araçlarını yardımcı teknoloji olarak kullanıyorum.
 
-## Featured projects
+## Öne Çıkan Projeler
 
-| Project | Focus |
+| Proje | Açıklama |
 | --- | --- |
-| [CureMenu](https://github.com/sametcsk/CureMenu) | A personalized nutrition decision-support prototype with deterministic safety checks, RAG, and traceable evidence. |
-| [FINSIM](https://github.com/sametcsk/yzta--bootcamp) | A browser-based financial behavior simulation developed with Team 306; I contribute as Product Owner. |
-| [Cognitive Score Prediction](https://github.com/sametcsk/yzta-datathon-cognitive-score) | Competition solution combining CatBoost, LightGBM, AutoGluon, Optuna, and blending; ranked 15th among 135 teams. |
-| [Corrective RAG](https://github.com/sametcsk/CorrectiveRAGProject) | A LangGraph-based corrective retrieval pipeline with routing, relevance grading, web fallback, and answer grounding. |
-| [Istanbul Traffic Forecasting](https://github.com/sametcsk/istanbul-trafigi-yapayzeka-cozumleri) | Traffic analysis and time-series forecasting using public Istanbul traffic data. |
-| [Credit Card Fraud Analysis](https://github.com/sametcsk/credit-card-fraud-smote-analysis) | An imbalanced-classification study comparing sampling strategies with leakage-safe evaluation. |
+| [CureMenu](https://github.com/sametcsk/CureMenu) | Kullanıcı profili ve belirli güvenlik kuralları üzerinden beslenme seçeneklerini değerlendiren karar destek prototipi. |
+| [Bilişsel Skor Tahmini](https://github.com/sametcsk/yzta-datathon-cognitive-score) | CatBoost, LightGBM, AutoGluon, Optuna ve model birleştirme yöntemlerinin kullanıldığı, 135 takım arasında 15. olan yarışma projesi. |
+| [İstanbul Trafik Tahmini](https://github.com/sametcsk/istanbul-trafigi-yapayzeka-cozumleri) | İstanbul trafik verileri üzerinde keşifsel veri analizi ve trafik hızı tahmini çalışması. |
+| [Kredi Kartı Dolandırıcılığı Analizi](https://github.com/sametcsk/credit-card-fraud-smote-analysis) | Dengesiz sınıflarda farklı örnekleme yöntemlerini karşılaştıran dolandırıcılık tespiti çalışması. |
+| [Müşteri Kaybı Tahmini](https://github.com/sametcsk/telco-churn-prediction) | Model açıklanabilirliği ve eşik analizi içeren müşteri kaybı tahmin projesi. |
+| [Hibrit Öneri Sistemi](https://github.com/sametcsk/Hybrid-Ensemble-Recommendation-Engine) | İşbirlikçi ve içerik tabanlı filtrelemeyi birleştiren film öneri sistemi. |
 
-## Tools
+## Kullandığım Araçlar
 
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `PyTorch` · `TensorFlow` ·
-`SQL` · `Jupyter` · `FastAPI` · `LangGraph`
+`Python` • `Pandas` • `NumPy` • `scikit-learn` • `SQL` • `Jupyter Notebook` •
+`Matplotlib` • `Seaborn` • `FastAPI`
+
+## İlgi Alanlarım
+
+- Keşifsel veri analizi
+- Makine öğrenmesi
+- Tahminleme ve model değerlendirme
+- Zaman serileri
+- Öneri sistemleri
+- Dengesiz veri problemleri
+- Model açıklanabilirliği
