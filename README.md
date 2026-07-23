@@ -4,10 +4,6 @@
 
 ### Data Science · Machine Learning · Deep Learning
 
-I develop data-driven projects focused on predictive modeling, applied machine
-learning, deep learning, recommendation systems, and responsible uses of
-generative AI.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289)
 [![Kaggle](https://img.shields.io/badge/Kaggle-sametsssx-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sametsssx)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sametcoskun19@hotmail.com)
