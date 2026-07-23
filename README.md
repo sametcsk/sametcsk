@@ -1,24 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Samet%20Co%C5%9Fkun&fontSize=50&fontAlignY=40&desc=Data%20Scientist&descAlignY=60&descAlign=50" />
+
+# Samet Coşkun
+
+### Data Science · Machine Learning · Deep Learning
+
+I develop data-driven projects focused on predictive modeling, applied machine
+learning, deep learning, recommendation systems, and responsible uses of
+generative AI.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289)
+[![Kaggle](https://img.shields.io/badge/Kaggle-sametsssx-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sametsssx)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sametcoskun19@hotmail.com)
+
 </div>
 
-<p align="center">
-  <a href="mailto:sametcoskun19@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/sametcoskun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/sametsssx"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://instagram.com/samett9coskunn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+## About me
 
-<br/>
+- I work on end-to-end data science projects, from exploratory data analysis
+  and feature engineering to model evaluation and interpretation.
+- My current interests include tabular machine learning, time-series
+  forecasting, recommendation systems, RAG workflows, and LLM-assisted
+  applications.
+- I care about reproducible experiments, clear documentation, and turning
+  analytical findings into useful products.
 
-### 👨‍💻 Hakkımda
-- Makine Öğrenmesi (Machine Learning) ve Derin Öğrenme (Deep Learning) alanlarında projeler geliştiriyorum.
-- Veri bilimi araçlarını kullanarak veri analizi ve tahmine dayalı modelleme (predictive modeling) süreçleri üzerinde çalışıyorum.
-- Python ekosisteminde aktif projeler üretiyor ve profesyonel çözümler geliştirmeye odaklanıyorum.
+## Featured projects
 
-<br/>
+| Project | Focus |
+| --- | --- |
+| [CureMenu](https://github.com/sametcsk/CureMenu) | A personalized nutrition decision-support prototype with deterministic safety checks, RAG, and traceable evidence. |
+| [FINSIM](https://github.com/sametcsk/yzta--bootcamp) | A browser-based financial behavior simulation developed with Team 306; I contribute as Product Owner. |
+| [Cognitive Score Prediction](https://github.com/sametcsk/yzta-datathon-cognitive-score) | Competition solution combining CatBoost, LightGBM, AutoGluon, Optuna, and blending; ranked 15th among 135 teams. |
+| [Corrective RAG](https://github.com/sametcsk/CorrectiveRAGProject) | A LangGraph-based corrective retrieval pipeline with routing, relevance grading, web fallback, and answer grounding. |
+| [Istanbul Traffic Forecasting](https://github.com/sametcsk/istanbul-trafigi-yapayzeka-cozumleri) | Traffic analysis and time-series forecasting using public Istanbul traffic data. |
+| [Credit Card Fraud Analysis](https://github.com/sametcsk/credit-card-fraud-smote-analysis) | An imbalanced-classification study comparing sampling strategies with leakage-safe evaluation. |
 
-### 🛠️ Teknolojiler
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,pandas&perline=10" alt="Tech Stack" />
-</p>
+## Tools
+
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `PyTorch` · `TensorFlow` ·
+`SQL` · `Jupyter` · `FastAPI` · `LangGraph`
