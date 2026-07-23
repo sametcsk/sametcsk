@@ -27,7 +27,7 @@ veri odaklı çözümler üretmeye yönelik projeler geliştiriyorum.
 | --- | --- |
 | [CureMenu](https://github.com/sametcsk/CureMenu) | Kullanıcı profili ve belirli güvenlik kuralları üzerinden beslenme seçeneklerini değerlendiren karar destek prototipi. |
 | [Bilişsel Skor Tahmini](https://github.com/sametcsk/yzta-datathon-cognitive-score) | CatBoost, LightGBM, AutoGluon, Optuna ve model birleştirme yöntemlerinin kullanıldığı, 135 takım arasında 15. olan yarışma projesi. |
-| [İstanbul Trafik Tahmini](https://github.com/sametcsk/istanbul-trafigi-yapayzeka-cozumleri) | İstanbul trafik verileri üzerinde keşifsel veri analizi ve trafik hızı tahmini çalışması. |
+| [İstanbul Trafik Tahmini](https://github.com/sametcsk/istanbul-traffic-forecasting) | İstanbul trafik verileri üzerinde keşifsel veri analizi ve trafik hızı tahmini çalışması. |
 | [Kredi Kartı Dolandırıcılığı Analizi](https://github.com/sametcsk/credit-card-fraud-smote-analysis) | Dengesiz sınıflarda farklı örnekleme yöntemlerini karşılaştıran dolandırıcılık tespiti çalışması. |
 | [Müşteri Kaybı Tahmini](https://github.com/sametcsk/telco-churn-prediction) | Model açıklanabilirliği ve eşik analizi içeren müşteri kaybı tahmin projesi. |
 | [Hibrit Öneri Sistemi](https://github.com/sametcsk/Hybrid-Ensemble-Recommendation-Engine) | İşbirlikçi ve içerik tabanlı filtrelemeyi birleştiren film öneri sistemi. |
