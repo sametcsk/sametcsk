@@ -1,58 +1,41 @@
-<div align="center">
+**Samet Coşkun**
+Veri Bilimi · Veri Analizi · Makine Öğrenmesi
 
-# Samet Coşkun
+Veriyi yalnızca modellemekle değil; temizlemek, anlamlandırmak ve karar süreçlerinde kullanılabilecek çıktılara dönüştürmekle ilgileniyorum.
 
-### Veri Bilimi · Veri Analizi · Makine Öğrenmesi
+**Kısaca Ben**
+Veri bilimi alanında kariyer hedefleyen ve mezuniyet sürecine yaklaşan bir Ekonometri öğrencisiyim. **Ekonometri altyapımın kazandırdığı güçlü istatistiksel ve nedensel bakış açısıyla**, verilerdeki sadece korelasyonları değil, arka plandaki dinamikleri de anlamaya çalışıyorum. Projelerimde keşifsel veri analizinden özellik mühendisliğine, model karşılaştırmadan sonuçların yorumlanmasına kadar uçtan uca bir çalışma düzeni (modüler kod mimarisi) kurmaya odaklanıyorum.
 
-Veriyi yalnızca modellemekle değil; temizlemek, anlamlandırmak ve karar süreçlerinde
-kullanılabilecek çıktılara dönüştürmekle ilgileniyorum.
+Özellikle sınıflandırma, regresyon, zaman serileri, dengesiz veri problemleri, öneri sistemleri ve Üretken Yapay Zeka (GenAI) üzerinde çalışıyorum. Amacım yalnızca yüksek bir skor elde etmek değil; kurulan modelin hangi problemi çözdüğünü, nasıl değerlendirildiğini ve hangi sınırlılıklara sahip olduğunu açık biçimde göstermek.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289)
-[![Kaggle](https://img.shields.io/badge/Kaggle-sametsssx-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sametsssx)
-[![E-posta](https://img.shields.io/badge/E--posta-İletişim-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sametcoskun19@hotmail.com)
-
-</div>
-
-## Kısaca Ben
-
-Veri bilimi alanında kariyer hedefleyen ve mezuniyet sürecine yaklaşan bir öğrenciyim.
-Projelerimde keşifsel veri analizinden özellik mühendisliğine, model karşılaştırmadan
-sonuçların yorumlanmasına kadar uçtan uca bir çalışma düzeni kurmaya odaklanıyorum.
-
-Özellikle sınıflandırma, regresyon, zaman serileri, dengesiz veri problemleri ve öneri
-sistemleri üzerinde çalışıyorum. Amacım yalnızca yüksek bir skor elde etmek değil;
-kurulan modelin hangi problemi çözdüğünü, nasıl değerlendirildiğini ve hangi
-sınırlılıklara sahip olduğunu açık biçimde göstermek.
-
-## Seçilmiş Projeler
+**Seçilmiş Projeler**
 
 | Proje | Problem ve Yaklaşım | Öne Çıkan Nokta |
-| --- | --- | --- |
-| [İstanbul Trafik Tahmini](https://github.com/sametcsk/istanbul-traffic-forecasting) | Aylık trafik verilerindeki zamansal örüntülerin incelenmesi ve kısa vadeli tahmin yaklaşımı | Zaman serisi, özellik mühendisliği, LSTM/GRU |
-| [Bilişsel Skor Tahmini](https://github.com/sametcsk/yzta-datathon-cognitive-score) | Tablosal veriden bilişsel skor tahmini için farklı model ve birleştirme yöntemlerinin karşılaştırılması | **135 takım arasında 15. sıra** |
-| [Futbolcu Reyting Tahmini](https://github.com/sametcsk/football-player-rating-prediction) | Teknik ve fiziksel oyuncu özelliklerinden genel performans puanı tahmini | Tekrarlanabilir eğitim, FastAPI, **R²: 0,806** |
-| [Diyabet Riski Tahmini](https://github.com/sametcsk/diabetes-risk-prediction-ml) | Klinik ölçümler üzerinden beş sınıflandırma algoritmasının karşılaştırılması | Veri sızıntısını önleyen ön işleme ve çoklu metrik değerlendirmesi |
-| [Sağlık Sigortası Maliyeti](https://github.com/sametcsk/medical-insurance-cost-prediction) | Demografik ve yaşam tarzı değişkenlerinden sigorta maliyeti tahmini | Regresyon karşılaştırması ve hiperparametre optimizasyonu |
-| [CureMenu](https://github.com/sametcsk/CureMenu) | Kullanıcı profili ve güvenlik kurallarıyla beslenme seçeneklerini değerlendiren karar destek prototipi | Veri odaklı ürün geliştirme ve kural tabanlı güvenlik |
+| :--- | :--- | :--- |
+| **[CureMenu (RAG & LangGraph)](https://github.com/sametcsk/CureMenu)** | Kullanıcı profiline göre akıllı beslenme tavsiyeleri veren yapay zeka destekli prototip. | Üretken Yapay Zeka (GenAI), RAG mimarisi, kural tabanlı güvenlik |
+| **[Telco Churn Prediction](https://github.com/sametcsk/telco-churn-prediction)** | Telekomünikasyon sektöründe müşteri kaybı tahmini. | Eşik (threshold) optimizasyonu ve SHAP değerleri ile model yorumlanabilirliği |
+| **[Credit Card Fraud (SMOTE)](https://github.com/sametcsk/credit-card-fraud-smote-analysis)** | Aşırı dengesiz (imbalanced) veri setlerinde kredi kartı dolandırıcılığının tespiti. | SMOTE tekniği, AUPRC metriği ile çoklu model karşılaştırması |
+| **[Bilişsel Skor Tahmini](https://github.com/sametcsk/yzta-datathon-cognitive-score)** | Tablosal veriden bilişsel skor tahmini için farklı model ve birleştirme yöntemlerinin karşılaştırılması. | Datathon'da 135 takım arasında 15. sıra, Optuna ile optimizasyon |
+| **[İstanbul Trafik Tahmini](https://github.com/sametcsk/istanbul-traffic-forecasting)** | Aylık trafik verilerindeki zamansal örüntülerin incelenmesi ve kısa vadeli tahmin yaklaşımı. | **8.2M+ satır büyük veri hacmi**, zaman serisi, LSTM/GRU |
+| **[Futbolcu Reyting Tahmini](https://github.com/sametcsk/football-player-rating-prediction)** | Teknik ve fiziksel oyuncu özelliklerinden genel performans puanı tahmini. | Tekrarlanabilir eğitim, FastAPI entegrasyonu, R²: 0,806 |
+| **[Hybrid Recommendation Engine](https://github.com/sametcsk/Hybrid-Ensemble-Recommendation-Engine)** | İşbirlikçi (collaborative) ve içerik tabanlı filtrelemeyi birleştiren kişiselleştirilmiş öneri sistemi. | Kullanıcı-ürün matrisleri, hibrit sistem mimarisi |
 
-## Yetkinlikler
+
+**Yetkinlikler**
 
 | Alan | Araçlar ve Yöntemler |
-| --- | --- |
-| Veri analizi | Python, Pandas, NumPy, SQL, Jupyter Notebook |
-| Görselleştirme | Matplotlib, Seaborn |
-| Makine öğrenmesi | scikit-learn, CatBoost, LightGBM, model seçimi ve hiperparametre optimizasyonu |
-| Model değerlendirme | MAE, RMSE, R², precision, recall, F1, çapraz doğrulama |
-| Uygulama | FastAPI, Git, tekrarlanabilir eğitim akışları |
+| :--- | :--- |
+| **Veri Analizi & İstatistik** | Python, Pandas, NumPy, SQL, Jupyter Notebook, İstatistiksel Analiz (Ekonometri) |
+| **Görselleştirme** | Matplotlib, Seaborn |
+| **Makine Öğrenmesi** | scikit-learn, XGBoost, CatBoost, LightGBM, model seçimi, hiperparametre optimizasyonu |
+| **Derin Öğrenme & AI** | TensorFlow, RAG (Retrieval-Augmented Generation), LangChain, LangGraph |
+| **Model Değerlendirme** | MAE, RMSE, R², Precision, Recall, F1, SHAP, çapraz doğrulama (Cross-Validation) |
+| **Uygulama & Mimarî** | Modüler script yapısı (src/), FastAPI, Git/GitHub, tekrarlanabilir eğitim akışları |
 
-## Şu Anda
-
+**Şu Anda**
 - Veri analisti ve yeni mezun veri bilimci rollerine hazırlanıyorum.
-- Projelerimi yeniden üretilebilirlik, açık dokümantasyon ve iş problemi odağında geliştiriyorum.
-- SQL, istatistiksel analiz ve model yorumlama becerilerimi derinleştiriyorum.
+- Projelerimi yeniden üretilebilirlik, temiz kod mimarisi ve iş problemi odağında geliştiriyorum.
+- Ekonometri altyapımı kullanarak, veriden elde edilen içgörülerin nedenselliğini analiz etme becerilerimi derinleştiriyorum.
 
-## İletişim
-
-Projeler, staj ve yeni mezun fırsatları için
-[LinkedIn](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289) üzerinden
-benimle iletişime geçebilirsiniz.
+**İletişim**
+Projeler, staj ve yeni mezun fırsatları için [LinkedIn](https://www.linkedin.com/in/samet-co%C5%9Fkun-4ab76b289) üzerinden benimle iletişime geçebilirsiniz.
